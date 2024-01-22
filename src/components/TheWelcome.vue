@@ -8,6 +8,9 @@ import SupportIcon from './icons/IconSupport.vue'
 </script>
 
 <template>
+<div class="bg-red-500 w-50 h-50 p-8">
+    <h1 class="text-4xl">chandra</h1>
+</div>
   <WelcomeItem>
     <template #icon>
       <DocumentationIcon />
